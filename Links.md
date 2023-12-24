@@ -16,6 +16,9 @@ https://assets.ctfassets.net/wfutmusr1t3h/4WQrNeENScZlISZKdknVbK/88e6b744c8591f7
 GitHub Administration:  
 https://assets.ctfassets.net/wfutmusr1t3h/5zTfUfFWQknwoUVA1SAw0o/5e1498f30d64825d94e01cec7dac90fe/github-administration-exam-preparation-study-guide.pdf
 
+**Candidate Handbook:**  
+https://examregistration.github.com/handbook
+
 ## Microsoft Learn
 
 GitHub Foundations Learning Path:  
