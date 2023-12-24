@@ -1,13 +1,28 @@
-Working on your own computer
+### Working on your own computer
 
-Installing Git:  
-Windows: ```winget install -e --id Git.Git```
+**Installing Git**  
 
-macOS: ```brew install git```
+Windows: 
+```
+winget install -e --id Git.Git
+```
 
-Ubuntu/Debian: ```sudo apt-get install git```
+macOS: 
+```
+brew install git
+```
 
-CentOS/Red Hat: ```dnf install git```
+Ubuntu/Debian: 
+```
+sudo apt-get install git
+```
+
+CentOS/Red Hat: 
+```
+dnf install git
+```
 
 Check your installation: 
-```git --version```
+```
+git --version
+```
