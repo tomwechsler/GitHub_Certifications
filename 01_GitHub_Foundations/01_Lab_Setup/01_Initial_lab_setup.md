@@ -58,6 +58,10 @@ git config --global core.editor <editor name>
 git config --list
 ```
 
+```
+git config --global --list
+```
+
 **How Do You Open the Default Git Config File?**  
 
 ```
