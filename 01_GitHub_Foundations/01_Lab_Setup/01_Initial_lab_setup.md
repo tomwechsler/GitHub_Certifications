@@ -67,3 +67,9 @@ git config --global --list
 ```
 git config --global -e
 ```
+
+**Set the default branch name**  
+
+```
+git config --global init.defaultBranch main
+```
