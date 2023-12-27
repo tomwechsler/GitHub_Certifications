@@ -1,4 +1,4 @@
-# A list with links to various documentation websites.
+# A list of links to the topics described in the domain!
 
 ## Git and GitHub Basics
 
