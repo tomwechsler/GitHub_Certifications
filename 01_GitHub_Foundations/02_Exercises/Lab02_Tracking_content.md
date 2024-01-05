@@ -59,9 +59,11 @@ Where is the version that's listed as "Changes to be committed"? (Working Direct
 git diff
 ```
 
-6. Go ahead and commit and do another status check. $ git commit -m "commit-message"
+6. Go ahead and commit and do another status check.
 ```
- git status
+git commit -m "lines added"
+
+git status
 ```
 
 <details open>
