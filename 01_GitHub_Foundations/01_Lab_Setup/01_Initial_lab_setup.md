@@ -49,7 +49,7 @@ git config –global user.email <email address>
 **Git Text Editor Configuration Settings**  
 
 ```
-git config --global core.editor <editor name>
+git config --global core.editor "code --wait --new-window"
 ```
 
 **How Do I See My git config?**  
