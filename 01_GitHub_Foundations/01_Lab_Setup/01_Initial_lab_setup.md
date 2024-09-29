@@ -43,7 +43,7 @@ git config --global user.name <user name>
 ```
 
 ```
-git config –global user.email <email address>
+git config –-global user.email <email address>
 ```
 
 **Git Text Editor Configuration Settings**  
