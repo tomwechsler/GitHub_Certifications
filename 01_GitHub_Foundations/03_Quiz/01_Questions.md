@@ -62,9 +62,9 @@ C. Repository permissions automatically encrypt all files stored in a repository
 
 **What is a key benefit of participating in the GitHub community?**
 
-A. Participating in the GitHub community guarantees financial compensation for all contributions. ❌  
-B. Participating in the GitHub community allows developers to collaborate, learn from others, and contribute to open-source projects. ✅  
-C. Participating in the GitHub community restricts access to private repositories only. ❌  
+A. Participating in the GitHub community guarantees financial compensation for all contributions.  
+B. Participating in the GitHub community allows developers to collaborate, learn from others, and contribute to open-source projects.  
+C. Participating in the GitHub community restricts access to private repositories only.  
 
 ---
 
@@ -72,9 +72,9 @@ C. Participating in the GitHub community restricts access to private repositorie
 
 **Why is branching important in Git-based workflows?**
 
-A. Branching allows developers to work on features or fixes independently without affecting the main codebase. ✅  
-B. Branching permanently deletes old versions of the code. ❌  
-C. Branching prevents collaboration between multiple developers. ❌  
+A. Branching allows developers to work on features or fixes independently without affecting the main codebase.  
+B. Branching permanently deletes old versions of the code.   
+C. Branching prevents collaboration between multiple developers.  
 
 ---
 
@@ -82,9 +82,9 @@ C. Branching prevents collaboration between multiple developers. ❌
 
 **What is the purpose of a fork in GitHub?**
 
-A. A fork is used to permanently synchronize two repositories automatically. ❌  
-B. A fork is a personal copy of a repository that allows independent development. ✅  
-C. A fork is required to delete files from a repository. ❌  
+A. A fork is used to permanently synchronize two repositories automatically.  
+B. A fork is a personal copy of a repository that allows independent development.  
+C. A fork is required to delete files from a repository.  
 
 ---
 
@@ -92,8 +92,8 @@ C. A fork is required to delete files from a repository. ❌
 
 **What is the main purpose of enabling two-factor authentication (2FA) on GitHub?**
 
-A. Two-factor authentication improves repository performance and loading speed. ❌  
-B. Two-factor authentication allows users to manage multiple accounts more easily. ❌  
-C. Two-factor authentication adds an extra layer of security to protect user accounts from unauthorized access. ✅  
+A. Two-factor authentication improves repository performance and loading speed.  
+B. Two-factor authentication allows users to manage multiple accounts more easily.  
+C. Two-factor authentication adds an extra layer of security to protect user accounts from unauthorized access.  
 
 ---
