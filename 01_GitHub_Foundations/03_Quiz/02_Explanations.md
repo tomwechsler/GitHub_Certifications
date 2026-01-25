@@ -2,9 +2,9 @@
 
 **What is the primary purpose of Git?**
 
-A. Git is a distributed version control system that tracks changes in source code over time. ✅
-B. Git is a cloud-based platform used only for hosting and sharing code repositories. ❌
-C. Git is a project management tool designed to track tasks and deadlines. ❌
+A. Git is a distributed version control system that tracks changes in source code over time. ✅  
+B. Git is a cloud-based platform used only for hosting and sharing code repositories. ❌  
+C. Git is a project management tool designed to track tasks and deadlines. ❌  
 
 **Explanation:**
 
@@ -18,9 +18,9 @@ C. Git is a project management tool designed to track tasks and deadlines. ❌
 
 **What is a GitHub repository?**
 
-A. A GitHub repository is a storage space that contains a project’s files, commit history, and configuration. ✅
-B. A GitHub repository is a user profile that displays activity and followers. ❌
-C. A GitHub repository is a communication tool used only for chatting with team members. ❌
+A. A GitHub repository is a storage space that contains a project’s files, commit history, and configuration. ✅  
+B. A GitHub repository is a user profile that displays activity and followers. ❌  
+C. A GitHub repository is a communication tool used only for chatting with team members. ❌  
 
 **Explanation:**
 
