@@ -37,3 +37,43 @@ B. GitHub Actions provides automated workflows for building, testing, and deploy
 C. GitHub Actions is only used for manual code reviews.  
 
 ---
+
+## Question 5 – Domain 5: Project Management
+
+**Which GitHub feature is primarily used to track tasks, bugs, and feature requests?**
+
+A. GitHub Issues are used to track tasks, bugs, and feature requests within a repository.  
+B. GitHub Commits are used to assign tasks and manage deadlines.  
+C. GitHub Forks are used to organize project work and responsibilities.  
+
+---
+
+## Question 6 – Domain 6: Privacy, Security, and Administration
+
+**What is the purpose of repository permissions on GitHub?**
+
+A. Repository permissions are used to control billing and payment methods.  
+B. Repository permissions determine who can view, modify, or manage a repository.  
+C. Repository permissions automatically encrypt all files stored in a repository.  
+
+---
+
+## Question 7 – Domain 7: Benefits of the GitHub Community
+
+**What is a key benefit of participating in the GitHub community?**
+
+A. Participating in the GitHub community guarantees financial compensation for all contributions. ❌  
+B. Participating in the GitHub community allows developers to collaborate, learn from others, and contribute to open-source projects. ✅  
+C. Participating in the GitHub community restricts access to private repositories only. ❌  
+
+---
+
+## Question 8 – Bonus Question (Mixed Domains)
+
+**Why is branching important in Git-based workflows?**
+
+A. Branching allows developers to work on features or fixes independently without affecting the main codebase. ✅  
+B. Branching permanently deletes old versions of the code. ❌  
+C. Branching prevents collaboration between multiple developers. ❌  
+
+---

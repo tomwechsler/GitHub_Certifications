@@ -61,3 +61,67 @@ C. GitHub Actions is only used for manual code reviews. ❌
 * **C is incorrect** because GitHub Actions focuses on automation, not manual review processes.
 
 ---
+
+## Question 5 – Domain 5: Project Management
+
+**Which GitHub feature is primarily used to track tasks, bugs, and feature requests?**
+
+A. GitHub Issues are used to track tasks, bugs, and feature requests within a repository. ✅  
+B. GitHub Commits are used to assign tasks and manage deadlines. ❌  
+C. GitHub Forks are used to organize project work and responsibilities. ❌  
+
+**Explanation:**
+
+* **A is correct** because GitHub Issues provide a structured way to track work items, discussions, and progress within a project.
+* **B is incorrect** because commits record code changes, not tasks or project planning information.
+* **C is incorrect** because forks are copies of repositories and are not designed for task tracking.
+
+---
+
+## Question 6 – Domain 6: Privacy, Security, and Administration
+
+**What is the purpose of repository permissions on GitHub?**
+
+A. Repository permissions are used to control billing and payment methods. ❌  
+B. Repository permissions determine who can view, modify, or manage a repository. ✅  
+C. Repository permissions automatically encrypt all files stored in a repository. ❌  
+
+**Explanation:**
+
+* **A is incorrect** because billing settings are managed separately from repository access controls.
+* **B is correct** because permissions define access levels such as read, write, or admin for users and teams.
+* **C is incorrect** because permissions control access, not encryption behavior.
+
+---
+
+## Question 7 – Domain 7: Benefits of the GitHub Community
+
+**What is a key benefit of participating in the GitHub community?**
+
+A. Participating in the GitHub community guarantees financial compensation for all contributions. ❌  
+B. Participating in the GitHub community allows developers to collaborate, learn from others, and contribute to open-source projects. ✅  
+C. Participating in the GitHub community restricts access to private repositories only. ❌  
+
+**Explanation:**
+
+* **A is incorrect** because most community contributions are voluntary and do not guarantee payment.
+* **B is correct** because the GitHub community encourages collaboration, knowledge sharing, and open-source contributions.
+* **C is incorrect** because community participation does not limit users to private repositories.
+
+---
+
+## Question 8 – Bonus Question (Mixed Domains)
+
+**Why is branching important in Git-based workflows?**
+
+A. Branching allows developers to work on features or fixes independently without affecting the main codebase. ✅  
+B. Branching permanently deletes old versions of the code. ❌  
+C. Branching prevents collaboration between multiple developers. ❌  
+
+**Explanation:**
+
+* **A is correct** because branches enable isolated development and safer integration of changes.
+* **B is incorrect** because Git preserves history and does not delete code when branches are created.
+* **C is incorrect** because branching actually improves collaboration rather than preventing it.
+
+---
