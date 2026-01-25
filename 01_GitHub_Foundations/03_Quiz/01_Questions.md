@@ -77,3 +77,23 @@ B. Branching permanently deletes old versions of the code. ❌
 C. Branching prevents collaboration between multiple developers. ❌  
 
 ---
+
+## Question 9 – Domain 2: Working with GitHub Repositories
+
+**What is the purpose of a fork in GitHub?**
+
+A. A fork is used to permanently synchronize two repositories automatically. ❌  
+B. A fork is a personal copy of a repository that allows independent development. ✅  
+C. A fork is required to delete files from a repository. ❌  
+
+---
+
+## Question 10 – Domain 6: Privacy, Security, and Administration
+
+**What is the main purpose of enabling two-factor authentication (2FA) on GitHub?**
+
+A. Two-factor authentication improves repository performance and loading speed. ❌  
+B. Two-factor authentication allows users to manage multiple accounts more easily. ❌  
+C. Two-factor authentication adds an extra layer of security to protect user accounts from unauthorized access. ✅  
+
+---
