@@ -68,7 +68,7 @@ C. Participating in the GitHub community restricts access to private repositorie
 
 ---
 
-## Question 8 – Bonus Question (Mixed Domains)
+## Question 8 – (Mixed Domains)
 
 **Why is branching important in Git-based workflows?**
 
